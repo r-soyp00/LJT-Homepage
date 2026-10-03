@@ -5,7 +5,6 @@ description: "Personal homepage of Junteng Liu"
 url: "https://r-soyp00.github.io"
 baseurl: "/LJT-Homepage"
 repository: "r-soyp00/LJT-Homepage"
-remote_theme: academicpages/academicpages.github.io
 
 # SEO
 twitter:
@@ -17,7 +16,7 @@ twitter:
 facebook:
   username:
   app_id:
-og_image: "images/site-logo.png"
+og_image: "images/profile.png"
 
 # Analytics
 analytics:
